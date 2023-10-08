@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+import 'package:flutter_bounce/flutter_bounce.dart';
 void main() {
   runApp(const MyApp());
 }
